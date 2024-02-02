@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FredrikVE
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning Jetpack Compose and app development in Android Studio
